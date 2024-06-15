@@ -1,7 +1,7 @@
 const TOKEN = '7305678243:AAEGUtqt56DQH8ZiegNmHrbUAOMIaZyxaQA';
 const CHANNEL_USERNAME = '@No1xKURD';
 const BOT_URL = `https://api.telegram.org/bot${TOKEN}`;
-const WEB_APP_URL = 'https://botgg.pages.dev/'; // پس از انتشار وب اپلیکیشن، این URL را جایگزین کنید.
+const WEB_APP_URL = 'https://github.com/Par123456/Bottel/main/worker.js'; // پس از انتشار وب اپلیکیشن، این URL را جایگزین کنید.
 const ADMINS = ['6508600903'];
 
 function doPost(e) {
